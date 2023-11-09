@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/graviton6.com/static/css/main.1d766016.css",
-    "main.js": "/graviton6.com/static/js/main.77242756.js",
-    "static/js/787.c39070f1.chunk.js": "/graviton6.com/static/js/787.c39070f1.chunk.js",
-    "index.html": "/graviton6.com/index.html",
-    "main.1d766016.css.map": "/graviton6.com/static/css/main.1d766016.css.map",
-    "main.77242756.js.map": "/graviton6.com/static/js/main.77242756.js.map",
-    "787.c39070f1.chunk.js.map": "/graviton6.com/static/js/787.c39070f1.chunk.js.map"
+    "main.css": "/static/css/main.1d766016.css",
+    "main.js": "/static/js/main.8afa3e81.js",
+    "static/js/787.c39070f1.chunk.js": "/static/js/787.c39070f1.chunk.js",
+    "index.html": "/index.html",
+    "main.1d766016.css.map": "/static/css/main.1d766016.css.map",
+    "main.8afa3e81.js.map": "/static/js/main.8afa3e81.js.map",
+    "787.c39070f1.chunk.js.map": "/static/js/787.c39070f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d766016.css",
-    "static/js/main.77242756.js"
+    "static/js/main.8afa3e81.js"
   ]
 }
